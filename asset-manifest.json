@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/shibashop/static/css/main.3c3ab016.chunk.css",
+    "main.js": "/shibashop/static/js/main.723df3da.chunk.js",
+    "main.js.map": "/shibashop/static/js/main.723df3da.chunk.js.map",
+    "runtime-main.js": "/shibashop/static/js/runtime-main.492f35f6.js",
+    "runtime-main.js.map": "/shibashop/static/js/runtime-main.492f35f6.js.map",
+    "static/css/2.c27a359e.chunk.css": "/shibashop/static/css/2.c27a359e.chunk.css",
+    "static/js/2.cf9cb27a.chunk.js": "/shibashop/static/js/2.cf9cb27a.chunk.js",
+    "static/js/2.cf9cb27a.chunk.js.map": "/shibashop/static/js/2.cf9cb27a.chunk.js.map",
+    "index.html": "/shibashop/index.html",
+    "precache-manifest.c4cea088ee2cc94c35dd6da2a9a64251.js": "/shibashop/precache-manifest.c4cea088ee2cc94c35dd6da2a9a64251.js",
+    "service-worker.js": "/shibashop/service-worker.js",
+    "static/css/2.c27a359e.chunk.css.map": "/shibashop/static/css/2.c27a359e.chunk.css.map",
+    "static/css/main.3c3ab016.chunk.css.map": "/shibashop/static/css/main.3c3ab016.chunk.css.map",
+    "static/js/2.cf9cb27a.chunk.js.LICENSE.txt": "/shibashop/static/js/2.cf9cb27a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.492f35f6.js",
+    "static/css/2.c27a359e.chunk.css",
+    "static/js/2.cf9cb27a.chunk.js",
+    "static/css/main.3c3ab016.chunk.css",
+    "static/js/main.723df3da.chunk.js"
+  ]
+}
