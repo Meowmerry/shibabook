@@ -29,7 +29,7 @@ import '../../style/login.scss';
     <Navbar />
       <div className='login-content'>
         <div className='login-logo-content'>
-        <img src="img/logo.svg" alt="logo" style={{width:'60%'}}/>
+        <img src="img/logo.svg" alt="logo"/>
       </div>
         <div className="login-input-content">
         <div className="login-box">
